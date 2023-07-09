@@ -1,0 +1,6 @@
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Domino2\bin\Debug\Domino2.dll
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Domino2\bin\Debug\Domino2.pdb
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Domino2\obj\Debug\Domino2.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Domino2\obj\Debug\Domino2.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Domino2\obj\Debug\Domino2.dll
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Domino2\obj\Debug\Domino2.pdb

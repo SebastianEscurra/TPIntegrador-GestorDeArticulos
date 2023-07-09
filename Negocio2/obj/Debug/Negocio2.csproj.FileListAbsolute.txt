@@ -1,0 +1,11 @@
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\bin\Debug\Negocio2.dll
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\bin\Debug\Negocio2.pdb
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\bin\Debug\AccesoDatos.dll
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\bin\Debug\Domino2.dll
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\bin\Debug\AccesoDatos.pdb
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\bin\Debug\Domino2.pdb
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\obj\Debug\Negocio2.csproj.AssemblyReference.cache
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\obj\Debug\Negocio2.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\obj\Debug\Negocio2.csproj.CopyComplete
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\obj\Debug\Negocio2.dll
+C:\Users\Sebastian\Desktop\Repositorios GitHub\EjerciciosCsharpNivel2\TPFinalNivel2_Escurra\Negocio2\obj\Debug\Negocio2.pdb
